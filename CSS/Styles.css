@@ -1,0 +1,139 @@
+.bg {
+    background-color: orange;
+    border-radius: 50px;
+    padding: 25px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+
+}
+
+.banner {
+    background-image: url("../DCSproject/.images/about.png");
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(186, 186, 213);
+
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.pb-3 {
+    justify-content: flex;
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+
+
+}
+
+.pb-4 {
+    justify-content: center;
+    width: 800px;
+    height: 400px;
+    text-align: center;
+}
+
+.container {
+    justify-content: flex;
+    text-align: center;
+}
+
+.first {
+    background-image: url("../DCS project/.images/img_01.png");
+}
+
+.s {
+    padding-top: 10px;
+    ;
+}
+
+.text {
+    padding-top: 80px;
+}
+
+.tittles {
+
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.carde{
+    background-color: #F8DBB2;
+}
+
+.back {
+    background-color: #ECC07C;
+    display: flex;
+    padding-bottom: 50px;
+
+}
+
+.py-5 {
+    padding-bottom: 5px;
+}
+
+.lines {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+.customber{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    
+}
+.containerse{
+    background-color: black;
+}
+.container-contact{
+    background-color:#505055;
+}
+.fontee{
+    font-size: small;
+    margin-bottom: 2%;
+}
+.container-inner{
+    
+    align-items: horizontaly;
+}
+.conta{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cont{
+    width:200px ;
+}
+.laga{
+    color: orange;
+}
+.media{
+    background-color: orange;
+    border-radius: 50%;
+    width: 25px;
+    text-align: center;
+    
+}
+.tour{
+    border-radius: 20px;
+    border:#ebebf5 solid 2px;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
